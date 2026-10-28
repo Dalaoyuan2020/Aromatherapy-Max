@@ -1,14 +1,15 @@
-# 香薰疗法 Max (Aromatherapy-Max)
+# 香蓄疗法 Max (Aromatherapy-Max)
 
-**目标：收集、整理与评估当前已存在的「精细定制化香味 / AI 原生香薰机」硬件与软件方案。**
+**目标：收集、整理与评估当前已存在的「精细定制化香味 / AI 原生香蓄机」硬件与软件方案。**
 
-仓库名称灵感来源于「1000 万以内最好的香薰机」与「香薰疗法 Max」。
+仓库名称灵感来源于「1000 万以内最好的香蓄机」与「香蓄疗法 Max」。
 
 所有内容均基于公开搜索结果与项目页面，列出来供参考与进一步验证。部分项目为原型 / Hackathon / 艺术装置，并非已商业化量产产品。
 
 ## 仓库结构
 
 - `README.md` — 本文件（总览）
+- `theory/` — 香味调配理论（金字塔、香调轮、音乐类比、情绪映射）
 - `projects/` — 各个具体方案详细说明
 - `printers/` — 开源 DIY 打印机 / 喷头 / 液体分配方案
 - `hardware/` — 硬件组件与开源参考
@@ -49,6 +50,15 @@
 - SCircle：AI 数字调香师 + 胶囊混合机
 - Algorithmic Perfumery / ScenTronix：问卷 + AI → 机器人定量混合
 - 开源多通道控制板（tristan-yk/Aroma）、Smell Engine、sniff_ai 等
+
+## 香味调配理论
+
+详见 `theory/fragrance-composition-theory.md`：
+- 香调金字塔（前调 / 中调 / 尾调）
+- Michael Edwards 香调轮（四大家族）
+- 像写歌一样编排香味（时间线与层次）
+- 情绪映射的经验说法
+- 对 AI 原生系统的建议
 
 ## 开源 DIY 打印机 / 喷头方案
 
