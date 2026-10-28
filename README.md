@@ -10,6 +10,7 @@
 
 - `README.md` — 本文件（总览）
 - `projects/` — 各个具体方案详细说明
+- `printers/` — 开源 DIY 打印机 / 喷头 / 液体分配方案
 - `hardware/` — 硬件组件与开源参考
 - `ai-agent/` — AI / Agent 控制思路与软件参考
 - `sources.md` — 原始链接与引用
@@ -48,6 +49,12 @@
 - SCircle：AI 数字调香师 + 胶囊混合机
 - Algorithmic Perfumery / ScenTronix：问卷 + AI → 机器人定量混合
 - 开源多通道控制板（tristan-yk/Aroma）、Smell Engine、sniff_ai 等
+
+## 开源 DIY 打印机 / 喷头方案
+
+详见 `printers/` 目录：
+- `diy-inkjet-and-liquid-dispensers.md` — IPJ-Bio、Sidekick、Open Printer、DIY Piezo/CIJ 等相关项目
+- `jlcpcb-and-eda-related.md` — 嘉立创 / EasyEDA 相关开源工具（注：未发现开源打印机控制方案）
 
 ## AI 原生 / Agent 控制思路
 
